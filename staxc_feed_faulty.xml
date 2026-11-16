@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+<title>STAXC feed (faulty, Day 16 audit test)</title>
+<link>https://github.com/harryjodonnell92-beep/STAXC</link>
+<description>STAXC product feed (fictional concept project)</description>
+<item>
+  <g:id>ST-001-01</g:id>
+  <g:item_group_id>ST-001</g:item_group_id>
+  <g:title>STAXC Monolith Trail Runner - Basalt</g:title>
+  <g:description>One-piece knit upper over a stacked three-layer midsole. Deep 5 mm lugs for gravel and city.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>165.00 GBP</g:price>
+  <g:link>https://staxc.example/products/monolith-basalt</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-001-01.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Basalt</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled polyester knit, rubber outsole</g:material>
+  <g:custom_label_0>Trail Runner</g:custom_label_0>
+  <g:custom_label_1>Seamless upper</g:custom_label_1>
+  <g:custom_label_2>Monolith</g:custom_label_2>
+  <g:custom_label_3>Best seller</g:custom_label_3>
+</item>
+<item>
+  <g:id>ST-001-02</g:id>
+  <g:item_group_id>ST-001</g:item_group_id>
+  <g:title>STAXC Monolith Trail Runner - Chalk</g:title>
+  <g:description>One-piece knit upper over a stacked three-layer midsole. Deep 5 mm lugs for gravel and city.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>165.00 GBP</g:price>
+  <g:link>https://staxc.example/products/monolith-chalk</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-001-02.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Chalk</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled polyester knit, rubber outsole</g:material>
+  <g:custom_label_0>Trail Runner</g:custom_label_0>
+  <g:custom_label_1>Seamless upper</g:custom_label_1>
+  <g:custom_label_2>Monolith</g:custom_label_2>
+  <g:custom_label_3>Best seller</g:custom_label_3>
+</item>
+<item>
+  <g:id>ST-001-03</g:id>
+  <g:item_group_id>ST-001</g:item_group_id>
+  <g:title>STAXC Monolith Trail Runner - Lichen</g:title>
+  <g:description>One-piece knit upper over a stacked three-layer midsole. Deep 5 mm lugs for gravel and city.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>165.00 GBP</g:price>
+  <g:sale_price>135.00 GBP</g:sale_price>
+  <g:link>https://staxc.example/products/monolith-lichen</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-001-03.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Lichen</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled polyester knit, rubber outsole</g:material>
+  <g:custom_label_0>Trail Runner</g:custom_label_0>
+  <g:custom_label_1>Seamless upper</g:custom_label_1>
+  <g:custom_label_2>Monolith</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-001-04</g:id>
+  <g:item_group_id>ST-001</g:item_group_id>
+  <g:title>STAXC Monolith Trail Runner - Slate</g:title>
+  <g:description>One-piece knit upper over a stacked three-layer midsole. Deep 5 mm lugs for gravel and city.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>165.00 GBP</g:price>
+  <g:link>https://staxc.example/products/monolith-slate</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-001-04.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Slate</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled polyester knit, rubber outsole</g:material>
+  <g:custom_label_0>Trail Runner</g:custom_label_0>
+  <g:custom_label_1>Seamless upper</g:custom_label_1>
+  <g:custom_label_2>Monolith</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-001-05</g:id>
+  <g:item_group_id>ST-001</g:item_group_id>
+  <g:title>STAXC Monolith Trail Runner - Fog</g:title>
+  <g:description>One-piece knit upper over a stacked three-layer midsole. Deep 5 mm lugs for gravel and city.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>165.00 GBP</g:price>
+  <g:link>https://staxc.example/products/monolith-fog</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-001-05.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Fog</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled polyester knit, rubber outsole</g:material>
+  <g:custom_label_0>Trail Runner</g:custom_label_0>
+  <g:custom_label_1>Seamless upper</g:custom_label_1>
+  <g:custom_label_2>Monolith</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-002-01</g:id>
+  <g:item_group_id>ST-002</g:item_group_id>
+  <g:title>STAXC Contour Technical Runner - Slate</g:title>
+  <g:description>Ripstop upper with a welded contour-line cage and toggle lacing. Built for technical ground.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>155.00 GBP</g:price>
+  <g:link>https://staxc.example/products/contour-slate</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-002-01.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Slate</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Ripstop nylon, TPU cage, rubber outsole</g:material>
+  <g:custom_label_0>Technical Runner</g:custom_label_0>
+  <g:custom_label_1>6 mm lugs</g:custom_label_1>
+  <g:custom_label_2>Contour</g:custom_label_2>
+  <g:custom_label_3>New in</g:custom_label_3>
+</item>
+<item>
+  <g:id>ST-002-02</g:id>
+  <g:item_group_id>ST-002</g:item_group_id>
+  <g:title>STAXC Contour Technical Runner - Chalk / Ember</g:title>
+  <g:description>Ripstop upper with a welded contour-line cage and toggle lacing. Built for technical ground.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>155.00 GBP</g:price>
+  <g:link>https://staxc.example/products/contour-chalk-ember</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-002-02_v0_old.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Chalk / Ember</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Ripstop nylon, TPU cage, rubber outsole</g:material>
+  <g:custom_label_0>Technical Runner</g:custom_label_0>
+  <g:custom_label_1>6 mm lugs</g:custom_label_1>
+  <g:custom_label_2>Contour</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-002-03</g:id>
+  <g:item_group_id>ST-002</g:item_group_id>
+  <g:title>STAXC Contour Technical Runner - Basalt</g:title>
+  <g:description>Ripstop upper with a welded contour-line cage and toggle lacing. Built for technical ground.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>155.00 GBP</g:price>
+  <g:sale_price>125.00 GBP</g:sale_price>
+  <g:link>https://staxc.example/products/contour-basalt</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-002-03.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Basalt</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Ripstop nylon, TPU cage, rubber outsole</g:material>
+  <g:custom_label_0>Technical Runner</g:custom_label_0>
+  <g:custom_label_1>6 mm lugs</g:custom_label_1>
+  <g:custom_label_2>Contour</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-002-04</g:id>
+  <g:item_group_id>ST-002</g:item_group_id>
+  <g:title>STAXC Contour Technical Runner - Moss</g:title>
+  <g:description>Ripstop upper with a welded contour-line cage and toggle lacing. Built for technical ground.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>155.00 GBP</g:price>
+  <g:link>https://staxc.example/products/contour-moss</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-002-04.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Moss</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Ripstop nylon, TPU cage, rubber outsole</g:material>
+  <g:custom_label_0>Technical Runner</g:custom_label_0>
+  <g:custom_label_1>6 mm lugs</g:custom_label_1>
+  <g:custom_label_2>Contour</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-002-04</g:id>
+  <g:item_group_id>ST-002</g:item_group_id>
+  <g:title>STAXC Contour Technical Runner - Ash</g:title>
+  <g:description>Ripstop upper with a welded contour-line cage and toggle lacing. Built for technical ground.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>155.00 GBP</g:price>
+  <g:link>https://staxc.example/products/contour-ash</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-002-05.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trail Runners</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Ash</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Ripstop nylon, TPU cage, rubber outsole</g:material>
+  <g:custom_label_0>Technical Runner</g:custom_label_0>
+  <g:custom_label_1>6 mm lugs</g:custom_label_1>
+  <g:custom_label_2>Contour</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-003-01</g:id>
+  <g:item_group_id>ST-003</g:item_group_id>
+  <g:title>STAXC Strata Lifestyle - Chalk / Slate</g:title>
+  <g:description>Layered tech trainer with reflective strata stripe and segmented cushioning.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>125.00 GBP</g:price>
+  <g:link>https://staxc.example/products/strata-chalk-slate</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-003-01.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trainers</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Chalk / Slate</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled mesh, suede overlays, rubber outsole</g:material>
+  <g:custom_label_0>Lifestyle</g:custom_label_0>
+  <g:custom_label_1>Recycled upper</g:custom_label_1>
+  <g:custom_label_2>Strata</g:custom_label_2>
+  <g:custom_label_3>New in</g:custom_label_3>
+</item>
+<item>
+  <g:id>ST-003-02</g:id>
+  <g:item_group_id>ST-003</g:item_group_id>
+  <g:title>STAXC Strata Lifestyle - Basalt</g:title>
+  <g:description>Layered tech trainer with reflective strata stripe and segmented cushioning.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>125.00 GBP</g:price>
+  <g:sale_price>99.00 GBP</g:sale_price>
+  <g:link>https://staxc.example/products/strata-basalt</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-003-02.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trainers</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Basalt</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled mesh, suede overlays, rubber outsole</g:material>
+  <g:custom_label_0>Lifestyle</g:custom_label_0>
+  <g:custom_label_1>Recycled upper</g:custom_label_1>
+  <g:custom_label_2>Strata</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-003-03</g:id>
+  <g:item_group_id>ST-003</g:item_group_id>
+  <g:title>STAXC Strata Lifestyle - Fog / Lichen</g:title>
+  <g:description>Layered tech trainer with reflective strata stripe and segmented cushioning.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>125.00 GBP</g:price>
+  <g:link>https://staxc.example/products/strata-fog-lichen</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-003-03.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trainers</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Fog / Lichen</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled mesh, suede overlays, rubber outsole</g:material>
+  <g:custom_label_0>Lifestyle</g:custom_label_0>
+  <g:custom_label_1>Recycled upper</g:custom_label_1>
+  <g:custom_label_2>Strata</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-003-04</g:id>
+  <g:item_group_id>ST-003</g:item_group_id>
+  <g:title>STAXC Strata Lifestyle - Ash / Ember</g:title>
+  <g:description>Layered tech trainer with reflective strata stripe and segmented cushioning.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:link>https://staxc.example/products/strata-ash-ember</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-003-04.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trainers</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Ash / Ember</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled mesh, suede overlays, rubber outsole</g:material>
+  <g:custom_label_0>Lifestyle</g:custom_label_0>
+  <g:custom_label_1>Recycled upper</g:custom_label_1>
+  <g:custom_label_2>Strata</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-003-05</g:id>
+  <g:item_group_id>ST-003</g:item_group_id>
+  <g:title>STAXC Strata Lifestyle - Bone</g:title>
+  <g:description>Layered tech trainer with reflective strata stripe and segmented cushioning.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>125.00 GBP</g:price>
+  <g:link>https://staxc.example/products/strata-bone</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-003-05.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Trainers</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Bone</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Recycled mesh, suede overlays, rubber outsole</g:material>
+  <g:custom_label_0>Lifestyle</g:custom_label_0>
+  <g:custom_label_1>Recycled upper</g:custom_label_1>
+  <g:custom_label_2>Strata</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-004-01</g:id>
+  <g:item_group_id>ST-004</g:item_group_id>
+  <g:title>STAXC Cairn Mid Waterproof Hiking Boot Mens Womens Unisex Basalt Black UK 9 Size 9 Trail Walking Boots Best Waterproof Winter Boots Sale</g:title>
+  <g:description>Mid-cut boot with waterproof membrane, gaiter collar and the Monolith stacked sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>195.00 GBP</g:price>
+  <g:link>https://staxc.example/products/cairn-mid-basalt</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-004-01.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Boots</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Basalt</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Waterproof membrane, nubuck, rubber outsole</g:material>
+  <g:custom_label_0>Boot</g:custom_label_0>
+  <g:custom_label_1>Waterproof</g:custom_label_1>
+  <g:custom_label_2>Cairn Mid</g:custom_label_2>
+  <g:custom_label_3>Best seller</g:custom_label_3>
+</item>
+<item>
+  <g:id>ST-004-02</g:id>
+  <g:item_group_id>ST-004</g:item_group_id>
+  <g:title>STAXC Cairn Mid Boot - Lichen</g:title>
+  <g:description>Mid-cut boot with waterproof membrane, gaiter collar and the Monolith stacked sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>195.00 GBP</g:price>
+  <g:link>https://staxc.example/products/cairn-mid-lichen</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-004-02.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Boots</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Lichen</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Waterproof membrane, nubuck, rubber outsole</g:material>
+  <g:custom_label_0>Boot</g:custom_label_0>
+  <g:custom_label_1>Waterproof</g:custom_label_1>
+  <g:custom_label_2>Cairn Mid</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-004-03</g:id>
+  <g:item_group_id>ST-004</g:item_group_id>
+  <g:title>STAXC Cairn Mid Boot - Slate</g:title>
+  <g:description>Mid-cut boot with waterproof membrane, gaiter collar and the Monolith stacked sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>195.00 GBP</g:price>
+  <g:link>https://staxc.example/products/cairn-mid-slate</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-004-03.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Boots</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Slate</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Waterproof membrane, nubuck, rubber outsole</g:material>
+  <g:custom_label_0>Boot</g:custom_label_0>
+  <g:custom_label_1>Waterproof</g:custom_label_1>
+  <g:custom_label_2>Cairn Mid</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-004-04</g:id>
+  <g:item_group_id>ST-004</g:item_group_id>
+  <g:title>STAXC Cairn Mid Boot - Clay</g:title>
+  <g:description>Mid-cut boot with waterproof membrane, gaiter collar and the Monolith stacked sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>195.00 GBP</g:price>
+  <g:link>https://staxc.example/products/cairn-mid-clay</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-004-04.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Boots</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Clay</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Waterproof membrane, nubuck, rubber outsole</g:material>
+  <g:custom_label_0>Boot</g:custom_label_0>
+  <g:custom_label_1>Waterproof</g:custom_label_1>
+  <g:custom_label_2>Cairn Mid</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-004-05</g:id>
+  <g:item_group_id>ST-04</g:item_group_id>
+  <g:title>STAXC Cairn Mid Boot - Moss</g:title>
+  <g:description>Mid-cut boot with waterproof membrane, gaiter collar and the Monolith stacked sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>195.00 GBP</g:price>
+  <g:link>https://staxc.example/products/cairn-mid-moss</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-004-05.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Boots</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Moss</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>Waterproof membrane, nubuck, rubber outsole</g:material>
+  <g:custom_label_0>Boot</g:custom_label_0>
+  <g:custom_label_1>Waterproof</g:custom_label_1>
+  <g:custom_label_2>Cairn Mid</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-005-01</g:id>
+  <g:item_group_id>ST-005</g:item_group_id>
+  <g:title>STAXC Shale Slide - Basalt</g:title>
+  <g:description>Moulded recovery slide with a stacked-layer foam sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>£85</g:price>
+  <g:link>https://staxc.example/products/shale-basalt</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-005-01.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Slides</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Basalt</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>EVA foam</g:material>
+  <g:custom_label_0>Slide</g:custom_label_0>
+  <g:custom_label_1>Recovery foam</g:custom_label_1>
+  <g:custom_label_2>Shale</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-005-02</g:id>
+  <g:item_group_id>ST-005</g:item_group_id>
+  <g:title>STAXC Shale Slide - Chalk</g:title>
+  <g:description>Moulded recovery slide with a stacked-layer foam sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>85.00 GBP</g:price>
+  <g:link>https://staxc.example/products/shale-chalk</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-005-02.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Slides</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Chalk</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>EVA foam</g:material>
+  <g:custom_label_0>Slide</g:custom_label_0>
+  <g:custom_label_1>Recovery foam</g:custom_label_1>
+  <g:custom_label_2>Shale</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-005-03</g:id>
+  <g:item_group_id>ST-005</g:item_group_id>
+  <g:title>STAXC Shale Slide - Slate</g:title>
+  <g:description>Moulded recovery slide with a stacked-layer foam sole.</g:description>
+  <g:condition>new</g:condition>
+  <g:price>85.00 GBP</g:price>
+  <g:link>https://staxc.example/products/shale-slate</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-005-03.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Slides</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Slate</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>EVA foam</g:material>
+  <g:custom_label_0>Slide</g:custom_label_0>
+  <g:custom_label_1>Recovery foam</g:custom_label_1>
+  <g:custom_label_2>Shale</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-005-04</g:id>
+  <g:item_group_id>ST-005</g:item_group_id>
+  <g:title>STAXC Shale Slide - Lichen</g:title>
+  <g:description>Moulded recovery slide with a stacked-layer foam sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>85.00 GBP</g:price>
+  <g:link>https://staxc.example/products/shale-lichen</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-005-04.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Slides</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Lichen</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>EVA foam</g:material>
+  <g:custom_label_0>Slide</g:custom_label_0>
+  <g:custom_label_1>Recovery foam</g:custom_label_1>
+  <g:custom_label_2>Shale</g:custom_label_2>
+</item>
+<item>
+  <g:id>ST-005-05</g:id>
+  <g:item_group_id>ST-005</g:item_group_id>
+  <g:title>STAXC Shale Slide - Ember</g:title>
+  <g:description>Moulded recovery slide with a stacked-layer foam sole.</g:description>
+  <g:availability>in stock</g:availability>
+  <g:condition>new</g:condition>
+  <g:price>85.00 GBP</g:price>
+  <g:link>https://staxc.example/products/shale-ember</g:link>
+  <g:image_link>https://raw.githubusercontent.com/harryjodonnell92-beep/STAXC/main/images/ST-005-05.jpg</g:image_link>
+  <g:brand>STAXC</g:brand>
+  <g:google_product_category>Apparel &amp; Accessories &gt; Shoes</g:google_product_category>
+  <g:product_type>Footwear &gt; Slides</g:product_type>
+  <g:size>UK 9</g:size>
+  <g:color>Ember</g:color>
+  <g:gender>unisex</g:gender>
+  <g:age_group>adult</g:age_group>
+  <g:material>EVA foam</g:material>
+  <g:custom_label_0>Slide</g:custom_label_0>
+  <g:custom_label_1>Recovery foam</g:custom_label_1>
+  <g:custom_label_2>Shale</g:custom_label_2>
+</item>
+</channel>
+</rss>
