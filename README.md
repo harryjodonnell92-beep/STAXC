@@ -6,7 +6,7 @@ Fictional concept brand for a Meta catalogue ads case study. Not a real company.
 
 | Path | What it is |
 |---|---|
-| `ST-001-01.jpg` … `ST-005-05.jpg` | 25 product images, one per colourway |
+| `ST-001-01.png` … `ST-005-05.png` | 25 product images, one per colourway |
 | `staxc_feed_faulty.csv` / `.xml` | Feed with 7 planted faults, for the audit test |
 | `staxc_feed_clean.csv` / `.xml` | The same feed with the faults fixed |
 
